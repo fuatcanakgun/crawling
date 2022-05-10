@@ -1,2 +1,2 @@
 # crawling
-a basic crawling project for archiving URLs of an advertisement website
+a basic crawling project for archiving URLs and getting ad details of an advertisement website
